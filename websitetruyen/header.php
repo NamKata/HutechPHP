@@ -535,7 +535,7 @@
               </div>
               <!-- /.bottom-right-bar -->
             </section>';
-    }else{
+    }else if($url == '/websitetruyen/home.php'){
      
       echo  '<section class="right-bar pc">
               <div class="top-right-bar">
@@ -571,7 +571,7 @@
               <!-- /.bottom-right-bar -->
             </section>';
     }
-    }
+    
     ?>
 
     <!-- /.right-bar -->
