@@ -1,1 +1,1 @@
-server
+local1
