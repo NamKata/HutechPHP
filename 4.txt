@@ -1,4 +1,1 @@
-lacol
-server
-33
-2
+local
