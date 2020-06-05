@@ -4,3 +4,4 @@ namserver
 1local
 2local
 3local
+4verver
