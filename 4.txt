@@ -3,3 +3,4 @@ namserver
 namserver
 1local
 2local
+3server
