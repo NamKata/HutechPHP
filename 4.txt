@@ -2,3 +2,4 @@ namlocal
 namserver
 namserver
 1local
+2local
