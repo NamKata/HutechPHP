@@ -1,4 +1,3 @@
 namlocal
 namserver
 namserver
-2
