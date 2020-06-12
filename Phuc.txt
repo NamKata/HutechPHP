@@ -1,3 +1,4 @@
 Cong Cu phan mem: -Git thub
 		  -Slack
+	          -Trello
 		  
