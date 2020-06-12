@@ -1,1 +1,3 @@
-Cong Cu phan mem
+Cong Cu phan mem: -Git thub
+		  -Slack
+		  -Trello
