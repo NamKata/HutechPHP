@@ -1,0 +1,58 @@
+<pages>
+  <!-- <div class="list-container" >
+                  <div class="result-item">
+                    <a href="#">
+                      <div class="media">
+                        <figure class="media-left">
+                          <p class="image">
+                          <img src="http://i.mangaqq.com/ebook/80x105/tuyet-the-vo-song_1552289569.jpg?r=r8645456" alt="Tuyệt Thế Vô Song">
+                          </p>
+                        </figure>
+                        <div class="media-content">
+                          <h4>Tuyệt thế tà thần</h4>
+                            <h6>Chương 1</h6>
+                        </div>
+                      </div>  
+                    </a>
+                  </div>
+                </div> -->
+                 <link>
+      <title>android</title>
+      <url>http://www.tutorialspoint.com/android/index.htm</url>
+   </link>
+
+   <link>
+      <title>Java</title>
+      <url>http://www.tutorialspoint.com/java/index.htm</url>
+   </link>
+
+   <link>
+      <title>CSS </title>
+      <url>http://www.tutorialspoint.com/css/index.htm</url>
+   </link>
+
+   <link>
+      <title>angularjs</title>
+      <url>http://www.tutorialspoint.com/angularjs/index.htm </url>
+   </link>
+
+   <link>
+      <title>hadoop</title>
+      <url>http://www.tutorialspoint.com/hadoop/index.htm </url>
+   </link>
+
+   <link>
+      <title>swift</title>
+      <url>http://www.tutorialspoint.com/swift/index.htm </url>
+   </link>
+
+   <link>
+      <title>ruby</title>
+      <url>http://www.tutorialspoint.com/ruby/index.htm </url>
+   </link>
+
+   <link>
+      <title>nodejs</title>
+      <url>http://www.tutorialspoint.com/nodejs/index.htm </url>
+   </link>
+</pages>
