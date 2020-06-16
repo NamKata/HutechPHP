@@ -6,4 +6,6 @@ Cap nhat lan 4
 Cap nhat lan 5
 Cap nhat lan 6	
 Update version
+Update version 1
+
   
