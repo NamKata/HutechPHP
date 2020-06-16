@@ -4,8 +4,9 @@
 // require_once("Controller/timesince.php");
 ?>
 <?php
+include("Slack/TrackErr.php");
 include_once("header.php");
-$danhsachmanga = Manga::DanhsachManga();
+$danhsachmanga = Manga::DanhsachManga()
 
 ?>
 <?php

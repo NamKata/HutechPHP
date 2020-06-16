@@ -1,0 +1,32 @@
+{
+    "name": "Slack Hooks",
+    "apiVersion": "v1",
+    "description": "Slack WebHooks Integration",
+    "operations": {
+        "Send": {
+            "httpMethod": "POST",
+            "summary": "POST Incoming WebHook",
+            "responseClass":"\\Crummy\\Phlack\\Bridge\\Guzzle\\Response\\MessageResponse",
+            "parameters": {
+                "text": {
+                    "location": "json",
+                    "type":     "string",
+                    "required": false
+                },
+                "channel": {
+                    "location": "json",
+                    "type":     "string",
+                    "required": false
+                },
+                "icon_emoji": {
+                    "location": "json",
+                    "type":     "string",
+                    "required": false
+                }
+            },
+            "additionalParameters": {
+                "location": "json"
+            }
+        }
+    }
+}

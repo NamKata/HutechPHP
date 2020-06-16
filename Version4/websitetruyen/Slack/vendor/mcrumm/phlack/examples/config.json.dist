@@ -1,0 +1,17 @@
+{
+    "services": {
+        "phlack": {
+            "class": "Crummy\\Phlack\\Bridge\\Guzzle\\PhlackClient",
+            "params": {
+                "url": ""
+            }
+        },
+        "phlack_api": {
+            "class": "Crummy\\Phlack\\Bridge\\Guzzle\\ApiClient",
+            "params": {
+                "username": "",
+                "token": ""
+            }
+        }
+    }
+}

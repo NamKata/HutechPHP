@@ -1,0 +1,11 @@
+formatter.name: pretty
+code_coverage:
+  format:
+    - html
+    - clover
+  output:
+    html: spec/coverage
+    clover: spec/coverage/clover.xml
+extensions:
+    - Coduo\PhpSpec\DataProvider\DataProviderExtension
+    - PhpSpec\Extension\CodeCoverageExtension
