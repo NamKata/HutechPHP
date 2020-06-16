@@ -1,0 +1,10 @@
+{   
+     "config": {
+        "disable-tls": true,
+        "secure-http": false
+    },
+    "require": {
+        "league/omnipay": "^3.0",
+        "omnipay/PayPal": "^3.0"
+    }
+}

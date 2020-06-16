@@ -1,0 +1,5 @@
+{
+    "require": {
+        "mcrumm/phlack": "^0.7.0"
+    }
+}
